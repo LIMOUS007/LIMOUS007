@@ -1,6 +1,8 @@
  ## Hi, I'm Soummil 👋
 
-  CS student at FLAME University — building ML systems, AI tools, and data pipelines.
+Computer Science student at FLAME University with a strong interest in machine learning, data exploration, and model building.  
+Fascinated by the evolving potential of machine learning to transform raw data into intelligent systems.  
+Currently focused on building end-to-end ML projects and learning how data-driven systems work in practice.  
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
