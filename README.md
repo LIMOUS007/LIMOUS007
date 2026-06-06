@@ -6,7 +6,6 @@ Currently focused on building end-to-end ML projects and learning how data-drive
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-  ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat)
   ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
   ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
